@@ -75,7 +75,7 @@
 | Web Scraping     | BeautifulSoup, Requests            |
 | Data Processing  | Pandas, NumPy                      |
 | Emailing         | Flask-Mail, SendGrid               |
-| Deployment       | Render / Railway / Local Docker    |
+| Deployment       |Github     |Git
 
 ---
 
