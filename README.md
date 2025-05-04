@@ -71,7 +71,7 @@
 |------------------|------------------------------------|
 | Frontend         | React.js, Tailwind CSS             |
 | Backend          | Flask, Python                      |
-| LLM Integration  | Ollama + Mistral                   |
+| LLM Integration  | Gemini               |
 | Web Scraping     | BeautifulSoup, Requests            |
 | Data Processing  | Pandas, NumPy                      |
 | Emailing         | Flask-Mail, SendGrid               |
